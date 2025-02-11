@@ -1,5 +1,8 @@
-body {background-color:#fff0db}
-h1 {background-color:#d9b99b; color:white; font-family: sans-serif}
-p {background-color:#faf0e6}
-.first {background-color:#e4d5b7}
-#image {background-color:#e4d5b7}
+* {font-family: sans-serif;}
+body {background-color:#fff0db;}
+h1 {background-color:#d9b99b; color:white;}
+p {background-color:#faf0e6;}
+.first {background-color:#e4d5b7;}
+#image {background-color:#e4d5b7;}
+.title {text-align: center;}
+
